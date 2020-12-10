@@ -1,0 +1,7 @@
+{
+
+	"ForderName" : "\\\\Server\\공용\\05.자재관리\\04.재고관리\\RPA_LG Inventory Status\\",
+	"ID" : "jmc0250",
+	"PW" : "jmc0250.2002",
+
+}
